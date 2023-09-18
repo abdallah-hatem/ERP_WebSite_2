@@ -98,6 +98,7 @@ function CustomerList() {
   ];
   return (
     <FormComponent title={"Customer List"}>
+      
       <MasterTable
         allowDelete
         allowUpdate
